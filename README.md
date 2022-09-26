@@ -1,7 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-
+```
+node that the fetch fail if you run next js with node 18
+please run with other version
+or comment the fetch function on search.js and index.js
+```
 First, run the development server:
 
 ```bash
