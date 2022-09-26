@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 ```
-node that the fetch fail if you run next js with node 18
+note that the fetch fail if you run next js with node 18
 please run with other version
 or comment the fetch function on search.js and index.js
 ```
